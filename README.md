@@ -2,7 +2,7 @@
 
 Resources Used:
 
-EKS 
+<ol>EKS</ol> 
 ECR
 Flask
 Docker
