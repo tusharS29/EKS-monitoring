@@ -1,6 +1,6 @@
 # EKS-monitoring:
 
-<h1> Resources Used: </h1>
+Resources Used:
 
 EKS 
 ECR
