@@ -3,6 +3,6 @@
 Resources Used:
 
 <ol>EKS</ol> 
-ECR
-Flask
-Docker
+<ol>ECR</ol>
+<ol>Flask</ol>
+<ol>Docker</ol>
